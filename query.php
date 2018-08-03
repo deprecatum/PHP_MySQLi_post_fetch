@@ -1,9 +1,9 @@
 <?php
 
-$user="root";
-$pass="tabaibo";
+$user="user";
+$pass="password";
 $host="localhost";
-$db="asd";
+$db="database";
 
 //$_POST["query"]="login";
 
