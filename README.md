@@ -1,2 +1,2 @@
 # PHP_post_fetch
-Little snippet of code that read whats in post and executes some mysql commands accordingly.
+Little snippet of code that reads what's in post and executes some mysql commands.
